@@ -66,4 +66,6 @@
     });
   
   })(jQuery); // End of use strict
+
+let notice = ()=> alert('Slashed prices! NOT Rs. 400, Only Rs. 190');
   
