@@ -8,7 +8,6 @@ function notice(){
             alert('Slashed Prices! Web Build worth Rs. 400 now at ONLY Rs. 190');
         };
         notice();
-
     (function($) {
     "use strict"; // Start of use strict
   
