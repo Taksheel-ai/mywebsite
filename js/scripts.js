@@ -4,10 +4,10 @@
     * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-freelancer/blob/master/LICENSE)
     */
 
-function notice(){
+setTimeout(() => {
             alert('Slashed Prices! Web Build worth Rs. 400 now at ONLY Rs. 190');
-        };
-        notice();
+        }, 50000);
+       
     (function($) {
     "use strict"; // Start of use strict
   
