@@ -4,10 +4,10 @@
     * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-freelancer/blob/master/LICENSE)
     */
 
-  let notice = ()=> {
-            alert("Prices Slashed! Web Build worth Rs. 400 at only Rs. 190");
-        }
-  greet();
+function notice(){
+            alert('Slashed Prices! Web Build worth Rs. 400 now at ONLY Rs. 190');
+        };
+        notice();
 
     (function($) {
     "use strict"; // Start of use strict
