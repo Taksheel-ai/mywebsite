@@ -3,6 +3,10 @@
     * Copyright 2013-2020 Start Bootstrap
     * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-freelancer/blob/master/LICENSE)
     */
+
+   function notice(){
+      alert('Slashed prices! NOT Rs. 400, Only Rs. 190');
+   };
     (function($) {
     "use strict"; // Start of use strict
   
@@ -67,7 +71,3 @@
   
   })(jQuery); // End of use strict
 
-
-  function notice {
-     alert('Slashed Prices! Rs. 400 at only Rs. 190!!! DM Me for best prices!!!')
-  }
