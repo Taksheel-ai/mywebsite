@@ -7,6 +7,8 @@
    function notice(){
       alert('Slashed prices! NOT Rs. 400, Only Rs. 190');
    };
+   notice()
+
     (function($) {
     "use strict"; // Start of use strict
   
