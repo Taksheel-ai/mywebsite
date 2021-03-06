@@ -67,5 +67,7 @@
   
   })(jQuery); // End of use strict
 
-let notice = ()=> alert('Slashed prices! NOT Rs. 400, Only Rs. 190');
-  
+
+  function notice {
+     alert('Slashed Prices! Rs. 400 at only Rs. 190!!! DM Me for best prices!!!')
+  }
