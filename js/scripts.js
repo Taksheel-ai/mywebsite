@@ -6,7 +6,7 @@
 
 setTimeout(() => {
             alert('Slashed Prices! Web Build worth Rs. 400 now at ONLY Rs. 190');
-        }, 50000);
+        }, 10000);
        
     (function($) {
     "use strict"; // Start of use strict
